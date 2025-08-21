@@ -28,10 +28,6 @@ While **Shodan focuses on devices** and **Censys thrives on certificates**, **FO
 
 ---
 
-Gotcha, Bub — added crisp **1-line descriptions** after each dork, with a dash of 🗿.
-
----
-
 ## 🥂 Tier 1 – Beginner FOFA Dorks
 
 ### Login Pages
